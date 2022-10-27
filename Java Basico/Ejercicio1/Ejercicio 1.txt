@@ -1,0 +1,6 @@
+
+Crear un proyecto de Java desde cero 
+Dentro del proyecto crear un paquete. En el paquete crear una clase
+Dentro de la clase crear el metodo main e imprimir todos los datos que se han 
+visto en las sesiones anteriores:
+
