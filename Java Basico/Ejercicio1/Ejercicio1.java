@@ -15,7 +15,7 @@ public class Ejercicio1{
         System.out.println("Dato de tipo Double: " + decimal);
         System.out.println("Dato de tipo long: " + longitud);
         System.out.println("Dato de tipo booleano: " + verdadero);
-        System.out.println("Dato de tipo booleano" + falso);
+        System.out.println("Dato de tipo booleano: " + falso);
         System.out.println("Dato de tipo numero - float: "+decimal1);
         System.out.println("Dato de tipo texto - char: "+ texto1);
 
